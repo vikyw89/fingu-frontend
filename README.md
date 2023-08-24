@@ -2,7 +2,7 @@
 front end repository of FINGU
 
 # live preview
-live: https://github.com/vikyw89/fingu-frontend
+https://fingu-frontend-theta.vercel.app/
 
 # how to run
 check /client readme
