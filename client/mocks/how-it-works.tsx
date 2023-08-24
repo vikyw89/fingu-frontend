@@ -2,7 +2,7 @@ export const howItWorks = [
     {
         id: "0",
         title: "Sign up",
-        text: "Create an account with Brainwave - AI chat app by providing your name, email address, and password. Once you sign up, you can start exploring the app.",
+        text: "Create an account with Fingu - AI chat app by providing your name, email address, and password. Once you sign up, you can start exploring the app.",
         image: "/images/how-it-works/image-1.png",
     },
     {

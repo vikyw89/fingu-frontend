@@ -15,7 +15,7 @@ const Pricing = ({}: PricingProps) => {
                 <Heading
                     textAlignClassName="text-center"
                     titleLarge="Pay once, use forever"
-                    textLarge="Get started with Brainwave - AI chat app today and experience the power of AI in your conversations!"
+                    textLarge="Get started with Fingu - AI chat app today and experience the power of AI in your conversations!"
                 />
                 <div className="w-[19rem] mx-auto mb-10 p-0.25 bg-gradient-to-b from-[#D77DEE]/90 to-n-1/15 rounded-xl">
                     <div className="flex p-[0.1875rem] bg-n-8 rounded-[0.6875rem]">

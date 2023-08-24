@@ -25,9 +25,9 @@ const grotesk = Space_Grotesk({
 });
 
 export const metadata = {
-    title: "Brainwave - AI Landing Page Kit",
+    title: "Fingu - AI Finance Assistant",
     description:
-        "Beautiful AI Landing Page UI Kit for your next website projects",
+        "Your AI Finance assistant",
     icons: {
         icon: "/favicon.ico",
     },
@@ -42,35 +42,35 @@ export default function RootLayout({
         <html lang="en">
             <head>
                 <meta
-                    content="Beautiful AI Landing Page UI Kit for your next website projects"
-                    name="Brainwave - AI Landing Page Kit"
+                    content="Fingu - AI Finance Assistant"
+                    name="Fingu - AI Finance Assistant"
                 />
                 <meta
-                    content="Brainwave - AI Landing Page Kit"
+                    content="Fingu - AI Finance Chat"
                     property="og:title"
                 />
                 <meta
-                    content="Beautiful AI Landing Page UI Kit for your next website projects"
+                    content="AI Finance chat application"
                     property="og:description"
                 />
                 <meta
                     content="%PUBLIC_URL%/fb-og-image.png"
                     property="og:image"
                 />
-                <meta
+                {/* <meta
                     property="og:url"
                     content="https://ui8.net/ui8/products/brainwave-ai-landing-page-kit"
-                />
+                /> */}
                 <meta
                     property="og:site_name"
-                    content="Brainwave - AI Landing Page Kit"
+                    content="Fingu - AI Finance Chat"
                 />
                 <meta
-                    content="Brainwave - AI Landing Page Kit"
+                    content="Fingu - AI Finance Chat"
                     property="twitter:title"
                 />
                 <meta
-                    content="Beautiful AI Landing Page UI Kit for your next website projects"
+                    content="Fingu - AI Finance Chat"
                     property="twitter:description"
                 />
                 <meta

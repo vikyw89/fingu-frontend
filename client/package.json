@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "lint:fix":"next lint --fix",
-    "format:fix":"npm run lint:fix"
+    "format:fix":"npm run lint:fix",
+    "test":"npm run format"
   },
   "dependencies": {
     "@splidejs/react-splide": "^0.7.12",

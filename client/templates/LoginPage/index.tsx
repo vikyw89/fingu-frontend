@@ -16,10 +16,10 @@ const LoginPage = ({}) => {
                 <div className="container relative z-2 max-w-[68rem] m-auto lg:flex lg:justify-between">
                     <div className="max-w-[32.875rem] mx-auto mb-12 text-center md:mb-16 lg:flex lg:flex-col lg:justify-around lg:max-w-[23.75rem] lg:m-0 lg:text-left">
                         <h2 className="h2">
-                            Join the AI revolution with Brainwave
+                            Join the AI revolution with Fingu
                         </h2>
                         <p className="hidden body-2 mt-4 text-n-4 md:block">
-                            Get started with Brainwave - AI chat app today and
+                            Get started with Fingu - AI chat app today and
                             experience the power of AI in your conversations!
                         </p>
                     </div>
@@ -77,7 +77,7 @@ const LoginPage = ({}) => {
                             </Button>
                             <div className="mt-10">
                                 <div className="caption mb-6 text-n-4 text-center">
-                                    Or start your Brainwave with
+                                    Or start your Fingu with
                                 </div>
                                 <div className="flex justify-center">
                                     <a

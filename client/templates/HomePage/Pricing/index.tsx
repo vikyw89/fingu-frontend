@@ -29,7 +29,7 @@ const Pricing = ({}: PricingProps) => {
                     </div>
                 </div>
                 <Heading
-                    tag="Get started with Brainwave"
+                    tag="Get started with Fingu"
                     title="Pay once, use forever"
                 />
                 <div className="relative">
