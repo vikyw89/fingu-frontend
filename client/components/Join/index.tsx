@@ -12,7 +12,7 @@ const Join = ({}: JoinProps) => (
                     <h1 className="h1 mb-6">
                         Be part of the future of{" "}
                         <span className="inline-block relative">
-                            Brainwave
+                            Fingu
                             <Image
                                 className="absolute top-full left-0 w-full"
                                 src="/images/curve.png"
@@ -23,8 +23,8 @@ const Join = ({}: JoinProps) => (
                         </span>
                     </h1>
                     <p className="body-1 mb-8 text-n-4">
-                        Unleash the power of AI within Brainwave. Upgrade your
-                        productivity with Brainwave, the open AI chat app.
+                        Unleash the power of AI within Fingu. Upgrade your
+                        productivity with Fingu, the open AI chat app.
                     </p>
                     <Button href="/pricing" white>
                         Get started
