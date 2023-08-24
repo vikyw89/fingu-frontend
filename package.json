@@ -1,0 +1,30 @@
+{
+  "name": "fingu-frontend",
+  "version": "1.0.0",
+  "description": "front end for FINGU app",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd client && npm run format:fix",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikyw89/fingu-frontend.git"
+  },
+  "keywords": [
+    "fingu",
+    "ai",
+    "finance",
+    "ai"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/vikyw89/fingu-frontend/issues"
+  },
+  "homepage": "https://github.com/vikyw89/fingu-frontend#readme",
+  "devDependencies": {
+    "czg": "^1.7.1",
+    "husky": "^8.0.0"
+  }
+}
