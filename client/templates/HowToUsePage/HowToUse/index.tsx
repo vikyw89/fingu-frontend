@@ -20,7 +20,7 @@ const HowToUse = ({}: HowToUseProps) => {
                 <Heading
                     textAlignClassName="text-center"
                     titleLarge="How to use"
-                    textLarge="Get started with Brainwave - AI chat app today and experience the power of AI in your conversations!"
+                    textLarge="Get started with Fingu - AI chat app today and experience the power of AI in your conversations!"
                 />
                 <div className="relative max-w-[75rem] mb-15 mx-auto">
                     <Image
@@ -132,12 +132,12 @@ const HowToUse = ({}: HowToUseProps) => {
                             </div>
                             <div className="body-2 text-n-2">
                                 <p className="mb-6">
-                                    {`To create an account with Brainwave - AI
+                                    {`To create an account with Fingu - AI
                                         chat app, all you need to do is provide
                                         your name, email address, and password.
                                         Once you have signed up, you will be
                                         able to start exploring the app's
-                                        various features. Brainwave's AI chat
+                                        various features. Fingu's AI chat
                                         system is designed to provide you with
                                         an intuitive, easy-to-use interface that
                                         makes it simple to chat with friends and
@@ -151,7 +151,7 @@ const HowToUse = ({}: HowToUseProps) => {
                                     looking for a simple chat app, or a more
                                     advanced platform that can help you stay
                                     connected with people from all over the
-                                    world, Brainwave is the perfect choice.
+                                    world, Fingu is the perfect choice.
                                 </p>
                             </div>
                             <div

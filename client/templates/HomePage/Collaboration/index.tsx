@@ -48,10 +48,10 @@ const Collaboration = ({}: CollaborationProps) => {
                                 <div className="w-[5.75rem] aspect-square m-auto p-[0.1875rem] bg-conic-gradient rounded-full">
                                     <div className="flex items-center justify-center w-full h-full bg-n-8 rounded-full">
                                         <Image
-                                            src="/images/brainwave-symbol.svg"
+                                            src="/images/fingu-symbol.svg"
                                             width={48}
                                             height={48}
-                                            alt="Brainwave"
+                                            alt="Fingu"
                                         />
                                     </div>
                                 </div>

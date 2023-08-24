@@ -32,7 +32,7 @@ const Help = ({}: HelpProps) => (
                         {
                             id: "1",
                             title: "Email us",
-                            text: "hello@brainwave.com",
+                            text: "hello@fingu.com",
                         },
                     ].map((item) => (
                         <li
