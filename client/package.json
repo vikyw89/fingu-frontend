@@ -1,5 +1,5 @@
 {
-  "name": "brainwave",
+  "name": "fingu",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "lint:fix":"next lint --fix",
+    "format":"next lint",
     "format:fix":"npm run lint:fix",
     "test":"npm run format"
   },
