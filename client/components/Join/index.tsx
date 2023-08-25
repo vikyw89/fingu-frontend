@@ -6,7 +6,7 @@ type JoinProps = {};
 
 const Join = ({}: JoinProps) => {
     const getStartedHandler = () => {
-        window.open("https://t.me/FINGUBot", "_blank");
+        window.open("https://telegram.me/FINGUBot", "_blank");
     }
     
     return (

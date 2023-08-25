@@ -21,7 +21,7 @@ const HowItWorks = ({}: HowItWorksProps) => {
     };
 
     const connectHandler = () => {
-        window.open("https://t.me/FINGUBot", "_blank");
+        window.open("https://telegram.me/FINGUBot", "_blank");
     }
     return (
         <Section className="lg:-mb-16" crosses>

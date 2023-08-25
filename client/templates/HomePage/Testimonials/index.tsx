@@ -12,7 +12,7 @@ type TestimonialsProps = {};
 
 const Testimonials = ({}: TestimonialsProps) => {
 	const visitLinkHandler = () => {
-		window.open('https://t.me/FINGUBot', '_blank');
+		window.open('https://telegram.me/FINGUBot', '_blank');
 	};
 	return (
 		<Section className='overflow-hidden'>

@@ -18,7 +18,7 @@ const Hero = ({}: HeroProps) => {
 	}, []);
 
     const getStartedHandler = () => {
-        window.open("https://t.me/FINGUBot", "_blank");
+        window.open("https://telegram.me/FINGUBot", "_blank");
     }
 
 	const parallaxRef = useRef<any>(null);

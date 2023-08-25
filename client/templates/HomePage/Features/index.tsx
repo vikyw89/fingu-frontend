@@ -14,7 +14,7 @@ const Features = ({}: FeaturesProps) => {
     const ref = useRef<any>(null);
 
     const seeHowItWorksHandler = () =>{
-        window.open("https://t.me/FINGUBot", "_blank");
+        window.open("https://telegram.me/FINGUBot", "_blank");
     }
     
     return (
