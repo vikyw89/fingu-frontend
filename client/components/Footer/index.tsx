@@ -14,7 +14,7 @@ const Footer = ({}: FooterProps) => (
         crosses
         customPaddings
     >
-        <div className="flex items-center justify-center h-[6.5rem] mb-6 border-b border-n-6 lg:justify-start">
+        {/* <div className="flex items-center justify-center h-[6.5rem] mb-6 border-b border-n-6 lg:justify-start">
             <Logo />
             <nav className="hidden lg:flex items-center justify-center ml-auto">
                 {navigation.slice(0, -1).map((item) => (
@@ -27,10 +27,10 @@ const Footer = ({}: FooterProps) => (
                     </Link>
                 ))}
             </nav>
-        </div>
+        </div> */}
         <div className="lg:flex lg:items-center lg:justify-between">
             <div className="hidden caption text-n-4 lg:block">
-                © {new Date().getFullYear()} UI8
+                © {new Date().getFullYear()}
             </div>
             <div className="flex justify-center -mx-4">
                 {socials.map((item) => (

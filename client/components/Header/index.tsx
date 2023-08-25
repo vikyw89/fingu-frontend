@@ -49,7 +49,7 @@ const Header = ({}: HeaderProps) => {
                         openNavigation ? "flex" : "hidden"
                     } fixed top-[4.8125rem] left-0 right-0 bottom-0 bg-n-8 lg:static lg:flex lg:mx-auto lg:bg-transparent`}
                 >
-                    <div className="relative z-2 flex flex-col items-center justify-center m-auto lg:flex-row">
+                    {/* <div className="relative z-2 flex flex-col items-center justify-center m-auto lg:flex-row">
                         {navigation.map((item) => (
                             <Link
                                 className={`block relative font-code text-2xl uppercase text-n-1 transition-colors hover:text-color-1 ${
@@ -83,7 +83,7 @@ const Header = ({}: HeaderProps) => {
                                 ></div>
                             </Link>
                         ))}
-                    </div>
+                    </div> */}
                     <div className="absolute inset-0 pointer-events-none lg:hidden">
                         <div className="absolute inset-0 opacity-[.03]">
                             <Image
@@ -105,7 +105,7 @@ const Header = ({}: HeaderProps) => {
                         <div className="absolute top-[26.8rem] left-12 w-6 h-6 bg-gradient-to-b from-[#88E5BE] to-[#1A1A32] rounded-full"></div>
                     </div>
                 </nav>
-                <Link
+                {/* <Link
                     className={`button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block ${
                         searchParams.has("new") ? "lg:text-n-1" : ""
                     }`}
@@ -148,7 +148,7 @@ const Header = ({}: HeaderProps) => {
                             })`}
                         />
                     </svg>
-                </Button>
+                </Button> */}
             </div>
         </div>
     );

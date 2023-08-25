@@ -21,7 +21,7 @@ const Faq = ({}: FaqProps) => {
                             Haven’t found what you’re looking for?{" "}
                             <a
                                 className="text-n-1 hover:text-color-2"
-                                href="mailto:info@ui8.net"
+                                href="mailto:info@fingu.net"
                             >
                                 Contact us
                             </a>

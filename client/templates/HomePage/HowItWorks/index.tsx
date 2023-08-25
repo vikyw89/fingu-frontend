@@ -20,6 +20,9 @@ const HowItWorks = ({}: HowItWorksProps) => {
         ref.current?.go(index);
     };
 
+    const connectHandler = () => {
+        window.open("https://t.me/FINGUBot", "_blank");
+    }
     return (
         <Section className="lg:-mb-16" crosses>
             <div className="container">
@@ -47,7 +50,10 @@ const HowItWorks = ({}: HowItWorksProps) => {
                                         <p className="body-2 mb-10 text-n-3">
                                             {item.text}
                                         </p>
-                                        <Button href="/login">
+                                        <Button 
+                                        // href="/login"
+                                        onClick={connectHandler}
+                                        >
                                             Connect now
                                         </Button>
                                         <Arrows

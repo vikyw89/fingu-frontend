@@ -17,7 +17,7 @@ const Hero = ({}: HeroProps) => (
             >
                 <Button
                     className="mt-8 md:mt-12"
-                    href="mailto:info@ui8.net"
+                    href="mailto:info@fingu.net"
                     white
                 >
                     Suggest features

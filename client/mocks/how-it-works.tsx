@@ -1,26 +1,26 @@
 export const howItWorks = [
     {
         id: "0",
-        title: "Sign up",
-        text: "Create an account with Fingu - AI chat app by providing your name, email address, and password. Once you sign up, you can start exploring the app.",
+        title: "Say hi to Fingu",
+        text: "Be friend with Fingu by messaging Fingu in the messaging app of your choice.",
         image: "/images/how-it-works/image-1.png",
     },
     {
         id: "1",
-        title: "Connect with AI chatbot",
-        text: "Connect with the AI chatbot to start the conversation. The chatbot uses natural language processing to understand your queries and provide relevant responses.",
+        title: "Tell Fingu about your financial conditions and goals",
+        text: "Fingu will try to understand and analyze your finances.",
         image: "/images/how-it-works/image-2.png",
     },
     {
         id: "2",
-        title: "Get Personalized Advices",
-        text: "Based on the conversation with the AI chatbot, you will receive personalized recommendations related to your queries. The chatbot is trained to understand your preferences and provide customized suggestions.",
+        title: "Get personalized advices, budgets and recommendations that works for you",
+        text: "Fingu will provide you with personalized advice, budgets and recommendations.",
         image: "/images/how-it-works/image-3.png",
     },
     {
         id: "3",
-        title: "Explore and Engage",
-        text: "Explore the recommendations provided by the AI chatbot and engage with the app. You can ask questions, provide feedback, and share your experience with the chatbot.",
+        title: "Engage, have fun and be your financial partner",
+        text: "Fingu will ensure you are on track with your finances at every step of the way.",
         image: "/images/how-it-works/image-4.png",
     },
 ];
