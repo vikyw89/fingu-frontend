@@ -7,6 +7,7 @@ import Generating from '@/components/Generating';
 import Notification from '@/components/Notification';
 import Logos from '@/components/Logos';
 
+
 type HeroProps = {};
 
 const Hero = ({}: HeroProps) => {
@@ -15,6 +16,10 @@ const Hero = ({}: HeroProps) => {
 	useEffect(() => {
 		setMounted(true);
 	}, []);
+
+    const getStartedHandler = () => {
+        window.open("https://t.me/FINGUBot", "_blank");
+    }
 
 	const parallaxRef = useRef<any>(null);
 
@@ -48,7 +53,8 @@ const Hero = ({}: HeroProps) => {
 						Fingu, your financial friend.
 					</p>
 					<Button
-						href='/pricing'
+						// href='/pricing'
+                        onClick={getStartedHandler}
 						white
 					>
 						Get started

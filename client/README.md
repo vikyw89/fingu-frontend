@@ -2,14 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-This guide https://ui8.notion.site/Project-Setup-af9fa48b613548dd8a5962d126b0265d will help you install Yarn. You can check if Yarn is installed on your PC with the command `yarn --version`
-
 First, run the development server:
 
 ```bash
-yarn install
+npm install
 # next step
-yarn dev
+npm run dev
 
 ```
 
