@@ -49,7 +49,7 @@ const Header = ({}: HeaderProps) => {
                         openNavigation ? "flex" : "hidden"
                     } fixed top-[4.8125rem] left-0 right-0 bottom-0 bg-n-8 lg:static lg:flex lg:mx-auto lg:bg-transparent`}
                 >
-                    <div className="relative z-2 flex flex-col items-center justify-center m-auto lg:flex-row">
+                    {/* <div className="relative z-2 flex flex-col items-center justify-center m-auto lg:flex-row">
                         {navigation.map((item) => (
                             <Link
                                 className={`block relative font-code text-2xl uppercase text-n-1 transition-colors hover:text-color-1 ${
@@ -83,7 +83,7 @@ const Header = ({}: HeaderProps) => {
                                 ></div>
                             </Link>
                         ))}
-                    </div>
+                    </div> */}
                     <div className="absolute inset-0 pointer-events-none lg:hidden">
                         <div className="absolute inset-0 opacity-[.03]">
                             <Image

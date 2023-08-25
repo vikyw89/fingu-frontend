@@ -25,9 +25,9 @@ const grotesk = Space_Grotesk({
 });
 
 export const metadata = {
-    title: "Fingu - AI Finance Assistant",
+    title: "Fingu - AI Financial Assistant",
     description:
-        "Your AI Finance assistant",
+        "Your AI Financial assistant",
     icons: {
         icon: "/favicon.ico",
     },
@@ -42,11 +42,11 @@ export default function RootLayout({
         <html lang="en">
             <head>
                 <meta
-                    content="Fingu - AI Finance Assistant"
-                    name="Fingu - AI Finance Assistant"
+                    content="Fingu - AI Financial Assistant"
+                    name="Fingu - AI Financial Assistant"
                 />
                 <meta
-                    content="Fingu - AI Finance Chat"
+                    content="Fingu - AI Financial Chat"
                     property="og:title"
                 />
                 <meta
@@ -63,14 +63,14 @@ export default function RootLayout({
                 /> */}
                 <meta
                     property="og:site_name"
-                    content="Fingu - AI Finance Chat"
+                    content="Fingu - AI Financial Chat Assistant"
                 />
                 <meta
-                    content="Fingu - AI Finance Chat"
+                    content="Fingu - AI Financial Chat Assistant"
                     property="twitter:title"
                 />
                 <meta
-                    content="Fingu - AI Finance Chat"
+                    content="Fingu - AI Financial Chat Assistant"
                     property="twitter:description"
                 />
                 <meta
