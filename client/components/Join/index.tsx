@@ -24,7 +24,7 @@ const Join = ({}: JoinProps) => (
                     </h1>
                     <p className="body-1 mb-8 text-n-4">
                         Unleash the power of AI within Fingu. Upgrade your
-                        productivity with Fingu, the open AI chat app.
+                        finances with Fingu, your financial friend.
                     </p>
                     <Button href="/pricing" white>
                         Get started

@@ -18,12 +18,12 @@ const HomePage = () => {
             <Hero />
             <Benefits />
             <Features />
-            <Collaboration />
+            {/* <Collaboration /> */}
             <HowItWorks />
-            <Services />
-            <Pricing />
+            {/* <Services /> */}
+            {/* <Pricing /> */}
             <Testimonials />
-            <Roadmap />
+            {/* <Roadmap /> */}
             <Join />
         </Layout>
     );

@@ -24,7 +24,7 @@ const Benefits = ({}: BenefitsProps) => {
             <div className="container relative z-2">
                 <Heading
                     className="md:max-w-md lg:max-w-2xl"
-                    title="Chat Smarter, Not Harder with Fingu"
+                    title="Better finances with Fingu !"
                 />
                 <Splide
                     className="splide-visible max-w-[24rem] md:max-w-none"
