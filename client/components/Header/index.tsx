@@ -105,7 +105,7 @@ const Header = ({}: HeaderProps) => {
                         <div className="absolute top-[26.8rem] left-12 w-6 h-6 bg-gradient-to-b from-[#88E5BE] to-[#1A1A32] rounded-full"></div>
                     </div>
                 </nav>
-                <Link
+                {/* <Link
                     className={`button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block ${
                         searchParams.has("new") ? "lg:text-n-1" : ""
                     }`}
@@ -148,7 +148,7 @@ const Header = ({}: HeaderProps) => {
                             })`}
                         />
                     </svg>
-                </Button>
+                </Button> */}
             </div>
         </div>
     );
