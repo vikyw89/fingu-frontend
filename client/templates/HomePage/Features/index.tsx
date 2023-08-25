@@ -13,6 +13,10 @@ type FeaturesProps = {};
 const Features = ({}: FeaturesProps) => {
     const ref = useRef<any>(null);
 
+    const seeHowItWorksHandler = () =>{
+        window.open("https://t.me/FINGUBot", "_blank");
+    }
+    
     return (
         <Section
             className="py-10 md:pb-20 lg:pt-16 lg:pb-32 xl:pb-40 overflow-hidden"
@@ -40,7 +44,7 @@ const Features = ({}: FeaturesProps) => {
                                         <p className="body-2 mb-10 text-n-3">
                                             {item.text}
                                         </p>
-                                        <Button>See how it work</Button>
+                                        <Button onClick={seeHowItWorksHandler}>See how it works</Button>
                                     </div>
                                     <Arrows
                                         className="my-10 lg:hidden"
