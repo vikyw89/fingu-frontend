@@ -1,44 +1,37 @@
 export const community = [
     {
         id: "0",
-        name: "David Chen",
-        role: "Engineer",
+        name: "Sarah Johnson",
+        role: "Finance Manager",
         avatarUrl: "/images/community/avatar-1.jpg",
-        text: "Fingu has been a game-changer for my business. The AI chatbot helps me stay on top of industry trends and provides me with customized recommendations that help me make informed decisions. It's like having a personal assistant at my fingertips. I would highly recommend this app to any entrepreneur looking to improve their productivity and efficiency.",
-    },
-    {
+        text: "Fingu has transformed the way I manage finances. Its AI-powered insights are invaluable, helping me track expenses and identify savings opportunities effortlessly. I recommend Fingu to anyone serious about financial well-being."
+      },
+      {
         id: "1",
-        name: "Dash",
-        role: "Creative director @UI8",
+        name: "Ella Martinez",
+        role: "Small Business Owner",
         avatarUrl: "/images/community/avatar-2.jpg",
-        text: "I was blown away by the accuracy and speed of the AI chatbot on Fingu. It was able to understand my queries and provide relevant recommendations in seconds.",
-    },
-    {
+        text: "Fingu is like having a financial advisor in your pocket. It has helped me streamline my business finances, offering tailored advice that has positively impacted my bottom line. Fingu is a must-have for entrepreneurs."
+      },
+      {
         id: "2",
-        name: "Michael Johnson",
-        role: "Sales Executive",
+        name: "Robert Lee",
+        role: "Investor",
         avatarUrl: "/images/community/avatar-3.jpg",
-        text: "I have been using Fingu for several months and have been impressed with its capabilities. The AI chatbot is able to understand complex queries and provide accurate recommendations, making my life easier and more productive. I would recommend this app to anyone looking for a reliable and efficient AI assistant.",
-    },
-    {
+        text: "Fingu has been a game-changer for my investment strategy. Its AI-powered insights have helped me make more informed decisions, resulting in better returns on my investments. I can't imagine investing without it."
+      },
+      {
         id: "3",
-        name: "Maria Rodriguez",
-        role: "Entrepreneur",
+        name: "Sophia Brown",
+        role: "Homeowner",
         avatarUrl: "/images/community/avatar-4.jpg",
-        text: "Fingu has been a game-changer for my business. The AI chatbot helps me stay on top of industry trends and provides me with customized recommendations that help me make informed decisions. It's like having a personal assistant at my fingertips. I would highly recommend this app to any entrepreneur looking to improve their productivity and efficiency.",
-    },
-    {
+        text: "Fingu has made managing my household budget a breeze. It provides actionable recommendations to save money, and its financial planning tools are incredibly useful. Fingu has become an essential part of my financial life."
+      },
+      {
         id: "4",
-        name: "Michael Johnson",
-        role: "Entrepreneur",
+        name: "Daniel Kim",
+        role: "Student",
         avatarUrl: "/images/community/avatar-5.jpg",
-        text: "Fingu has revolutionized the way I interact with digital assistants. The AI chatbot is able to understand my preferences and provide customized suggestions that are tailored to my needs. The app is user-friendly and intuitive, making it a joy to use.",
-    },
-    {
-        id: "5",
-        name: "Jane Smith",
-        role: "UX Designer",
-        avatarUrl: "/images/community/avatar-6.jpg",
-        text: "Fingu has been a game-changer for my business. The AI chatbot helps me stay on top of industry trends and provides me with customized recommendations that help me make informed decisions. It's like having a personal assistant at my fingertips. I would highly recommend this app to any entrepreneur looking to improve their productivity and efficiency.",
-    },
+        text: "As a student, Fingu has helped me build good financial habits early on. It's educational and intuitive, making it easy to track my spending and savings goals. Fingu is an ideal companion for students."
+      }
 ];
