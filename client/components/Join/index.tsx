@@ -4,7 +4,12 @@ import Button from "@/components/Button";
 
 type JoinProps = {};
 
-const Join = ({}: JoinProps) => (
+const Join = ({}: JoinProps) => {
+    const getStartedHandler = () => {
+        window.open("https://t.me/FINGUBot", "_blank");
+    }
+    
+    return (
     <Section crosses>
         <div className="container">
             <div className="relative max-w-[43.125rem] mx-auto py-8 md:py-14 xl:py-0">
@@ -26,7 +31,10 @@ const Join = ({}: JoinProps) => (
                         Unleash the power of AI within Fingu. Upgrade your
                         finances with Fingu, your financial friend.
                     </p>
-                    <Button href="/pricing" white>
+                    <Button 
+                    // href="/pricing" 
+                    onClick={getStartedHandler}
+                    white>
                         Get started
                     </Button>
                 </div>
@@ -68,6 +76,6 @@ const Join = ({}: JoinProps) => (
             />
         </div>
     </Section>
-);
+)};
 
 export default Join;
