@@ -30,13 +30,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="./client/public/images/fingu.webp" alt="Logo" width="auto" height="100">
+    <img src="./client/public/FINGU_logo.gif" alt="Logo" width="auto" height="300">
   </a>
 
   <h3 align="center">FINGU</h3>
 
   <p align="center">
-    Your financial assistant
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -63,16 +62,8 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -128,8 +119,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-- [Follow this link to start the front end](client/README.md)
-- [Follow this link to start the back end](https://github.com/Ahmed14z/FINGU_Assistant)
+This project consist of 2 repositories.
+
+- For the front-end 
+  - [Follow this link to start the front end](client/README.md)
+
+- For the back-end
+  - [Follow this link to start the back end](https://github.com/Ahmed14z/FINGU_Assistant)
 
 
 <!-- ROADMAP -->
@@ -137,11 +133,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 - [x] Add Changelog
 - [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [ ] Add integration with financial data providers for gathering data
+- [ ] Add more interactivity with the ai through voices, various file format upload and download
+- [ ] Add personality selections to the AI
+- [ ] Add multi platform integration, messenger, whatsapp, iMessage, etc
 
 See the [open issues](https://github.com/vikyw89/fingu-frontend/issues) for a full list of proposed features (and known issues).
 
@@ -150,8 +145,6 @@ See the [open issues](https://github.com/vikyw89/fingu-frontend/issues) for a fu
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [lablabai](https://lablab-ai.webpkgcache.com/doc/-/s/lablab.ai/event/llama-2-hackathon-with-clarifai)
 
