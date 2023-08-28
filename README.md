@@ -37,7 +37,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/vikyw89/fingu-frontend"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://fingu-frontend-theta.vercel.app/">View Demo</a>
