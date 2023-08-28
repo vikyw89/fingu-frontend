@@ -131,8 +131,7 @@ This project consist of 2 repositories.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
+- [x] Prototype
 - [ ] Add integration with financial data providers for gathering data
 - [ ] Add more interactivity with the ai through voices, various file format upload and download
 - [ ] Add personality selections to the AI
