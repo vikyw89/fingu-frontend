@@ -106,8 +106,6 @@ Fingu is the ultimate financial companion for young people, providing the tools,
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * ![!\[Alt text\](<../../Downloads/Clarifai - The Worlds AI.svg>)](<client/public/Clarifai - The Worlds AI.svg>)
