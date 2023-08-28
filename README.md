@@ -119,7 +119,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This project consist of 2 repositories.
+This project consists of 2 repositories.
 
 - For the front-end 
   - [Follow this link to start the front end](client/README.md)
